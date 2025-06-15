@@ -2,8 +2,10 @@
 Messy vs Clean Room Classifier is a binary image classification project made by Kelvin Marcelino for the Dicoding course Belajar Machine Learning untuk Pemula, using Convolutional Neural Networks (CNN) in TensorFlow/Keras to identify whether a room is messy or clean.
 
 ## 📦 Dataset
-* Dataset URL:  
-  [Messy vs Clean Room](https://github.com/dicodingacademy/assets/raw/main/ml_pemula_academy/messy-vs-clean-room.zip)  
+* Downloaded From:
+  ```
+  https://github.com/dicodingacademy/assets/raw/main/ml_pemula_academy/messy-vs-clean-room.zip
+  ```
 * Contains images divided into `train/clean`, `train/messy`, `val/clean`, and `val/messy`.
 
 ## 🛠️ Tools & Libraries
